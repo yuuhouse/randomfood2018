@@ -1,0 +1,10 @@
+D:\Coding\C#\uuuu\uuuu\obj\Debug\uuuu.csprojAssemblyReference.cache
+D:\Coding\C#\uuuu\uuuu\obj\Debug\uuuu.Properties.Resources.resources
+D:\Coding\C#\uuuu\uuuu\obj\Debug\uuuu.csproj.GenerateResource.cache
+D:\Coding\C#\uuuu\uuuu\obj\Debug\uuuu.csproj.CoreCompileInputs.cache
+D:\Coding\C#\uuuu\uuuu\bin\Debug\uuuu.exe.config
+D:\Coding\C#\uuuu\uuuu\bin\Debug\uuuu.exe
+D:\Coding\C#\uuuu\uuuu\bin\Debug\uuuu.pdb
+D:\Coding\C#\uuuu\uuuu\obj\Debug\uuuu.exe
+D:\Coding\C#\uuuu\uuuu\obj\Debug\uuuu.pdb
+D:\Coding\C#\uuuu\uuuu\obj\Debug\uuuu.隨機菜單產生器.resources
